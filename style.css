@@ -107,6 +107,16 @@
         padding: 0.3rem 1rem;
         color: var(--light);
     }
+    
+    .main-nav a.flag:hover {
+        border-bottom: 0px;
+    }
+    
+    .flagimg {
+        width: 35px;
+        height: 30px;
+        margin-bottom: -10px;
+    }
     /* mobileNav */
     
     .menu {
